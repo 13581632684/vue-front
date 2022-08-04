@@ -1,19 +1,4 @@
-# student
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
+# 8.1-8.5代码训练
 
 ### Lints and fixes files
 ```
