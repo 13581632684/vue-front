@@ -14,7 +14,7 @@
 
 ## 运行截图
 ### nginx部署
-nginx起在8085端口： <br />
+nginx部署在本地8085端口： <br />
 <img width="345" alt="截屏2022-08-04 11 29 23" src="https://user-images.githubusercontent.com/44705882/182756931-61f612a0-4362-4524-aa07-dd7b57887d12.png"> <br />
 ### 前端
 登录页面： <br />
